@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
   - 
 
 - 🌱 I’m currently learning:
-  -- Front-end web development (In-depth integration with Javascript, React, Node.js, and AWS)
-  -- 
+  - Front-end web development (In-depth integration with Javascript, React, Node.js, and AWS)
+  - 2D pixel strategic games and 3D FPS multi-player games using C#, .NET, and Unity game en
   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
