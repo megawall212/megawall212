@@ -58,7 +58,7 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 - **Email:** zli6@ufl.edu
 - **Discord:** ggsmd1202
-- **LinkedIn:** [My Linkin Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zeyu-li-889325358/))  
-- **GitHub:** [My Github Page]([https://github.com/yourusername](https://github.com/megawall212))  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)
+- **GitHub:** [My GitHub Page](https://github.com/megawall212)
 
 ### ⚡ Fun fact: ...
