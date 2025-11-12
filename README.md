@@ -68,7 +68,7 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 - Data Analysis/Visualization: Python/Jupiter Notebook/MATLAB/R
 - Machine Learning tools: Python Pandas/Pytorch/Tensorflow
 - Basic Front-End Design: Javascript/React/HTML/CSS
-- K-12 and college courses tutoring: AP Courses, SAT, Math(algebra/Calculus I-III, Differential Equations, Linear Algebra), U.S History etc.
+- K-12 and college courses tutoring: AP Courses, SAT, Math(algebra/Calculus I-III, Differential Equations, Linear Algebra), U.S History etc. [My Tutoring Profile](https://www.wyzant.com/match/tutor/89536540/?onlineOnly=false&search_id=d5ed7ca3-dd2d-46b5-8e52-2c73d05cbac7)
 - Music: Guitar/Piano
 
 --- 
