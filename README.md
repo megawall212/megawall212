@@ -13,11 +13,30 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
   - Game Design and Simulation
     - Creating interactive environments and optimizing performance in **Unity**
 
-  - For the latest updates please visit
+  - For the latest updates please visit:
+
+
+### Previous Coursework:
+  - Python software development: 
+    - [Programming Fundamental 1]()
+  - C++ software development:
+    -ss
+  -- Data Structure and Algorithm software development:
+    -ss
+  - Digital Logic
+    -ss
+
+  <!-- - Intro to Software Engineering
+       -- Operating System
+       
+-->
+
+### Projects Completed/ In-Progressed:
+
   
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👯 I’m looking to collaborate on ...
+### 🤔 I’m looking for help with ...
+### 💬 Ask me about ...
+### 📫 How to reach me: ...
+
+### ⚡ Fun fact: ...
