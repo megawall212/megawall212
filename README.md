@@ -4,6 +4,13 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 ---
 
+
+### 📫 How to reach me:
+- **Email:** zli6@ufl.edu
+- **Discord:** ggsmd1202
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)
+- **GitHub:** [My GitHub Page](https://github.com/megawall212)
+
 ### 🔭 I’m currently working on:
 
   - Personal Website/Profolio
@@ -54,11 +61,5 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 ---
 
-### 📫 How to reach me:
-
-- **Email:** zli6@ufl.edu
-- **Discord:** ggsmd1202
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)
-- **GitHub:** [My GitHub Page](https://github.com/megawall212)
 
 ### ⚡ Fun fact: ...
