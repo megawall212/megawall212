@@ -3,15 +3,15 @@
 Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the University of Florida passionate about software development, algorithms, AI-driven technology, and game development! I love turning complex problems into efficient, real-world solutions through projects and creative code.
 
 
-- 🔭 I’m currently working on:
+### 🔭 I’m currently working on:
   - Personal Website/Profolio
   - A 2D pixel strategic game and 3D multiplayer FPS using C#, .NET, and Unity game engine
 
-- 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
   - Front-End Web Development
-    - In-depth integration with JavaScript, React, Node.js, and AWS
+    - In-depth integration with **JavaScript, React, Node.js, and AWS**
   - Game Design and Simulation
-    - Creating interactive environments and optimizing performance in Unity
+    - Creating interactive environments and optimizing performance in **Unity**
 
   - For the latest updates please visit
   
