@@ -4,11 +4,12 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 
 - 🔭 I’m currently working on:
-  - ssss
+  - 
 
-
-
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
+  -- Front-end web development (In-depth integration with Javascript, React, Node.js, and AWS)
+  -- 
+  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
