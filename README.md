@@ -1,11 +1,16 @@
 ## Hi there 👋 I'm Zeyu(Johnson) Li!
 
+---
+
 Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the University of Florida passionate about software development, algorithms, AI-driven technology, and game development! I love turning complex problems into efficient, real-world solutions through projects and creative code.
 
+---
 
 ### 🔭 I’m currently working on:
   - Personal Website/Profolio
   - A 2D pixel strategic game and 3D multiplayer FPS using C#, .NET, and Unity game engine
+
+---
 
 ### 🌱 I’m currently learning:
   - Front-End Web Development
@@ -15,6 +20,7 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
   - For the latest updates please visit:
 
+---
 
 ### Previous Coursework:
   - Python software development: 
@@ -31,12 +37,26 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
        
 -->
 
+---
+
 ### Projects Completed/ In-Progressed:
 
-  
+---
+
 ### 👯 I’m looking to collaborate on ...
+
+---
+
 ### 🤔 I’m looking for help with ...
+
+---
+
 ### 💬 Ask me about ...
+
+---
+
 ### 📫 How to reach me: ...
+
+---
 
 ### ⚡ Fun fact: ...
