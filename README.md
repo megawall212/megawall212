@@ -4,11 +4,16 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 
 - 🔭 I’m currently working on:
-  - 
+  - Personal Website/Profolio
+  - A 2D pixel strategic game and 3D multiplayer FPS using C#, .NET, and Unity game engine
 
 - 🌱 I’m currently learning:
-  - Front-end web development (In-depth integration with Javascript, React, Node.js, and AWS)
-  - 2D pixel strategic games and 3D FPS multi-player games using C#, .NET, and Unity game en
+  - Front-End Web Development
+    - In-depth integration with JavaScript, React, Node.js, and AWS
+  - Game Design and Simulation
+    - Creating interactive environments and optimizing performance in Unity
+
+  - For the latest updates please visit
   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
