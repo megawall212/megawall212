@@ -24,7 +24,6 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 ### Previous Coursework:
   - Python software development: 
     - [Python Programming Fundamental ](https://github.com/megawall212/Python-Fundemantal)
-  
   - C++ software development:
     -[C++ Programming Fundamental ](https://github.com/megawall212/C--Fundemantal)
   
