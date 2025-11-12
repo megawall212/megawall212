@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 - **Discord:** ggsmd1202
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)
 - **GitHub:** [My GitHub Page](https://github.com/megawall212)
+- **Wyzant：**[My Tutoring Profile](https://www.wyzant.com/match/tutor/89536540/?onlineOnly=false&search_id=d5ed7ca3-dd2d-46b5-8e52-2c73d05cbac7)
 
 ### 🔭 I’m currently working on:
 
@@ -47,6 +48,9 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
     - [Project 1: AVL Search](https://github.com/megawall212/Python-Fundemantal)
     - [Project 2: US City Graphs](https://github.com/megawall212/DSA_P2)
     - [Project 3: Campus Compass]()
+
+- Digital Logic and Computer Systems:
+    -[CPU]() 
 ---
 
 ### 👯 I’m looking to collaborate on ...
@@ -59,7 +63,7 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 ### 💬 Ask me about ...
 
----
+--- Programming 
 
 
 ### ⚡ Fun fact: ...
