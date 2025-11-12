@@ -63,7 +63,15 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 ### 💬 Ask me about ...
 
---- Programming 
+- Programming Fundamentals: Python/C++/Java
+- Database Management Skills: SQL/API
+- Data Analysis/Visualization: Python/Jupiter Notebook/MATLAB/R
+- Machine Learning tools: Python Pandas/Pytorch/Tensorflow
+- Basic Front-End Design: Javascript/React/HTML/CSS
+- K-12 and college courses tutoring: AP Courses, SAT, Math(algebra/Calculus I-III, Differential Equations, Linear Algebra), U.S History etc.
+- Music: Guitar/Piano
+
+--- 
 
 
 ### ⚡ Fun fact: ...
