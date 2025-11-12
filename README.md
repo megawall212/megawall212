@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
   - Game Design and Simulation
     - Creating interactive environments and optimizing performance in **Unity**
 
-  - For the latest updates please visit:
+  - <!--For the latest updates please visit:-->
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 - C++ software development:
   - [C++ Programming Fundamental](https://github.com/megawall212/C--Fundemantal)
 - Digital Logic and Design:
-  -[Digital Logic and Computer Systems](https://github.com/megawall212/Digital-Logic-and-Computer-Systems)
+  - [Digital Logic and Computer Systems](https://github.com/megawall212/Digital-Logic-and-Computer-Systems)
 
   <!-- - Intro to Software Engineering
        -- Operating System
@@ -37,7 +37,9 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 ### Projects Completed/ In-Progressed:
 - Data Structure and Algorithm software development:
-    -[Python Programming Fundamental](https://github.com/megawall212/Python-Fundemantal)
+    - [Project 1: AVL Search](https://github.com/megawall212/Python-Fundemantal)
+    - [Project 2: US City Graphs](https://github.com/megawall212/DSA_P2)
+    - [Project 3: Campus Compass]()
 ---
 
 ### 👯 I’m looking to collaborate on ...
@@ -52,8 +54,11 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 ---
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
 
----
+- **Email:** zli6@ufl.edu
+- **Discord:** ggsmd1202
+- **LinkedIn:** [My Linkin Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zeyu-li-889325358/))  
+- **GitHub:** [My Github Page]([https://github.com/yourusername](https://github.com/megawall212))  
 
 ### ⚡ Fun fact: ...
