@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Zeyu(Johnson) Li!
 
-
+Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the University of Florida passionate about software development, algorithms, AI-driven technology, and game development! I love turning complex problems into efficient, real-world solutions through projects and creative code.
 
 
 - 🔭 I’m currently working on ...
