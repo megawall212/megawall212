@@ -9,8 +9,9 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 Access my key professional documents below:
 
 - 📝 **Resume:** [View My Resume](https://github.com/megawall212/Intern-Info/blob/main/Resume%20Fall%202025.pdf)
-- ✉️ **Cover Letter:** [View My Cover Letter](YOUR_COVER_LETTER_LINK)
-- 📚 **Reference Letters:** [View Reference Letters](YOUR_REFERENCE_LETTERS_LINK)
+- ✉️ **Cover Letter:** [View My Cover Letter](https://github.com/megawall212/Intern-Info/blob/main/Cover_Letter_Fall.pdf)
+- 📚 **Reference Letters/Work Samples:** [View Reference Letters](https://github.com/megawall212/Intern-Info/blob/main/Reference%20letter%20Fall%2025.pdf)
+- **Unofficial Transcript** [View Latest Unofficial Transcript](https://github.com/megawall212/Intern-Info/blob/main/Transcript%20Report.pdf)
 
 ---
 
