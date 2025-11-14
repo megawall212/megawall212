@@ -4,6 +4,17 @@ Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the Univers
 
 ---
 
+## 📄 My Info & Documents
+
+Access my key professional documents below:
+
+- 📝 **Resume:** [View My Resume](YOUR_RESUME_LINK)
+- ✉️ **Cover Letter:** [View My Cover Letter](YOUR_COVER_LETTER_LINK)
+- 📚 **Reference Letters:** [View Reference Letters](YOUR_REFERENCE_LETTERS_LINK)
+
+---
+
+
 
 ### 📫 How to reach me:
 - **Email:** zli6@ufl.edu
