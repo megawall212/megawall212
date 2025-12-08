@@ -1,7 +1,9 @@
 <p align="center">
-# **Hi there 👋, I'm Zeyu (Johnson) Li!**
 
-**2nd Year Computer Engineering Student at the University of Florida**
+# <strong>Hi, I'm Zeyu (Johnson) Li!</strong>
+
+<strong>2nd Year Computer Engineering Student at the University of Florida</strong>
+
 </p>
 
 <!--
@@ -22,7 +24,7 @@ Access my key professional documents below:
 ### 📫 How to reach me:
 - **Email:** zli6@ufl.edu
 - **Discord:** ggsmd1202
-- <!--**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)
+- <!--**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)-->
 - **GitHub:** [My GitHub Page](https://github.com/megawall212)
 - **Wyzant：**[My Tutoring Profile](https://www.wyzant.com/match/tutor/89536540/?onlineOnly=false&search_id=d5ed7ca3-dd2d-46b5-8e52-2c73d05cbac7)
 
