@@ -52,21 +52,28 @@ Access my key professional documents below:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+
+  <!-- Hardware / Embedded Systems -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/VHDL_logo.svg" height="40" title="VHDL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Intel_Quartus_logo.svg" height="40" title="Quartus"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Logisim_Logo.png" height="40" title="Logisim"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Embedded_systems_icon.svg" height="40" title="Embedded Systems"/>
 </p>
 
 ### ⭐ Favorite Projects
 
-- **Campus Compass (DSA Project 3)**  
-  A full pathfinding and campus-navigation system using advanced graph algorithms.  
-  🔗 [View Project](https://github.com/megawall212/DSA_Project3new)
+- **Facial Recognition System**  
+  A facial recognition project built by the SASE Engineering Team using pretrained models from InsightFace. Designed for real-time operation and integrated into an autonomous robot, deployed on **Jetson Nano** for person identification and interaction.  
+  🔗 [View Project](https://github.com/noah-n-pham/SET-Facial-Recognition)
 
 - **US City Graphs (DSA Project 2)**  
   Analyzed real-world city connections using graph data structures, BFS/DFS, and MST algorithms.  
   🔗 [View Project](https://github.com/megawall212/DSA_P2)
 
 - **Photo Gallery Website**  
-  A responsive full-stack image gallery built with Typescrit, React, Firebase, and custom UI/UX design.  
+  A responsive full-stack image gallery built with React, Firebase, and custom UI/UX design.  
   🔗 [Live Demo](https://photo-gallery-a338a.web.app/)
+
 
 
 
@@ -103,14 +110,13 @@ Access my key professional documents below:
 
 ---
 
-### Projects Completed/ In-Progressed:
+### Projects Completed/In-Progressed:
 - Data Structure and Algorithm software development:
     - [Project 1: AVL Search](https://github.com/megawall212/Python-Fundemantal)
     - [Project 2: US City Graphs](https://github.com/megawall212/DSA_P2)
     - [Project 3: Campus Compass](https://github.com/megawall212/DSA_Project3new)
 
-- Digital Logic and Computer Systems:
-    -[CPU]() 
+
 ---
 
 
