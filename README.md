@@ -54,6 +54,21 @@ Access my key professional documents below:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
 </p>
 
+### ⭐ Favorite Projects
+
+- **Campus Compass (DSA Project 3)**  
+  A full pathfinding and campus-navigation system using advanced graph algorithms.  
+  🔗 [View Project](https://github.com/megawall212/DSA_Project3new)
+
+- **US City Graphs (DSA Project 2)**  
+  Analyzed real-world city connections using graph data structures, BFS/DFS, and MST algorithms.  
+  🔗 [View Project](https://github.com/megawall212/DSA_P2)
+
+- **Photo Gallery Website**  
+  A responsive full-stack image gallery built with Typescrit, React, Firebase, and custom UI/UX design.  
+  🔗 [Live Demo](https://photo-gallery-a338a.web.app/)
+
+
 
 
 ### 📫 How to reach me:
@@ -68,8 +83,6 @@ Access my key professional documents below:
 - Personal Website / Portfolio  
 - A 2D pixel strategy game and a 3D multiplayer FPS using **C#, .NET, and Unity**  
 - [Photo Gallery Website](https://photo-gallery-a338a.web.app/)  
-
-**Currently Learning:**
 - Advanced Front-End Development  
   - **JavaScript, TypeScript, React, Node.js, AWS/Cloud APIs**
 - Game Design & Simulation  
@@ -100,13 +113,6 @@ Access my key professional documents below:
     -[CPU]() 
 ---
 
-### 👯 I’m looking to collaborate on ...
-
----
-
-### 🤔 I’m looking for help with ...
-
----
 
 ### 💬 Ask me about ...
 
