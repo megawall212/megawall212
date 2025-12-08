@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the University of Florida passionate about software development, algorithms, AI-driven technology, and game development! I love turning complex problems into efficient, real-world solutions through projects and creative code.
 
 ---
-
+<!--
 ## 📄 My Info & Documents
 
 Access my key professional documents below:
@@ -13,6 +13,7 @@ Access my key professional documents below:
 - 📚 **Reference Letters/Work Samples:** [View Reference Letters](https://github.com/megawall212/Intern-Info/blob/main/Reference%20letter%20Fall%2025.pdf)
 - **Unofficial Transcript** [View Latest Unofficial Transcript](https://github.com/megawall212/Intern-Info/blob/main/Transcript%20Report.pdf)
 
+-->
 ---
 
 
