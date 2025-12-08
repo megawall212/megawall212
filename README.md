@@ -1,6 +1,7 @@
-## Hi there 👋 I'm Zeyu(Johnson) Li!
+# **Hi there 👋, I'm Zeyu (Johnson) Li!**
 
-Welcome to my GitHub! I'm a 2nd year Computer Engineering student at the University of Florida passionate about software development, algorithms, AI-driven technology, and game development! I love turning complex problems into efficient, real-world solutions through projects and creative code.
+**2nd Year Computer Engineering Student at the University of Florida**
+
 
 ---
 <!--
@@ -21,7 +22,7 @@ Access my key professional documents below:
 ### 📫 How to reach me:
 - **Email:** zli6@ufl.edu
 - **Discord:** ggsmd1202
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)
+- <!--**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)
 - **GitHub:** [My GitHub Page](https://github.com/megawall212)
 - **Wyzant：**[My Tutoring Profile](https://www.wyzant.com/match/tutor/89536540/?onlineOnly=false&search_id=d5ed7ca3-dd2d-46b5-8e52-2c73d05cbac7)
 
@@ -29,12 +30,13 @@ Access my key professional documents below:
 
   - Personal Website/Profolio
   - A 2D pixel strategic game and 3D multiplayer FPS using C#, .NET, and Unity game engine
+  - Photo gallery website
 
 ---
 
 ### 🌱 I’m currently learning:
   - Front-End Web Development
-    - In-depth integration with **JavaScript, React, Node.js, and AWS**
+    - In-depth integration with **JavaScript/Typescript, React, Node.js, and AWS/Cloud APIs**
   - Game Design and Simulation
     - Creating interactive environments and optimizing performance in **Unity**
 
