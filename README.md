@@ -1,9 +1,9 @@
+<p align="center">
 # **Hi there 👋, I'm Zeyu (Johnson) Li!**
 
 **2nd Year Computer Engineering Student at the University of Florida**
+</p>
 
-
----
 <!--
 ## 📄 My Info & Documents
 
