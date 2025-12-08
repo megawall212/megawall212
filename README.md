@@ -62,23 +62,19 @@ Access my key professional documents below:
 - **GitHub:** [My GitHub Page](https://github.com/megawall212)
 - **Wyzant：**[My Tutoring Profile](https://www.wyzant.com/match/tutor/89536540/?onlineOnly=false&search_id=d5ed7ca3-dd2d-46b5-8e52-2c73d05cbac7)
 <!--**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zeyu-li-889325358/)-->
-### 🔭 I’m currently working on:
 
-  - Personal Website/Profolio
-  - A 2D pixel strategic game and 3D multiplayer FPS using C#, .NET, and Unity game engine
-  - [Photo gallery website:](https://photo-gallery-a338a.web.app/)
+### 🚀 What I'm Working On & Learning
 
----
+- Personal Website / Portfolio  
+- A 2D pixel strategy game and a 3D multiplayer FPS using **C#, .NET, and Unity**  
+- [Photo Gallery Website](https://photo-gallery-a338a.web.app/)  
 
-### 🌱 I’m currently learning:
-  - Front-End Web Development
-    - In-depth integration with **JavaScript/Typescript, React, Node.js, and AWS/Cloud APIs**
-  - Game Design and Simulation
-    - Creating interactive environments and optimizing performance in **Unity**
+**Currently Learning:**
+- Advanced Front-End Development  
+  - **JavaScript, TypeScript, React, Node.js, AWS/Cloud APIs**
+- Game Design & Simulation  
+  - Building interactive systems and optimizing performance in **Unity**
 
-  - <!--For the latest updates please visit:-->
-
----
 
 ### Previous Coursework:
 - Python software development: 
