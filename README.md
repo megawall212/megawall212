@@ -53,13 +53,7 @@ Access my key professional documents below:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
 
-  <!-- Hardware / Embedded Systems -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/VHDL_logo.svg" height="40" title="VHDL (Hardware Description Language)"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Intel_Quartus_logo.svg" height="40" title="Quartus"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Logisim_Logo.png" height="40" title="Logisim"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Embedded_systems_icon.svg" height="40" title="Embedded Systems"/>
-</p>
-
+ 
 ### ⭐ Favorite Projects
 
 - **Facial Recognition System**  
