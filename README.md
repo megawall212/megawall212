@@ -1,6 +1,6 @@
 # **Hi, I'm Zeyu (Johnson) Li!**
 
-**2nd Year Computer Engineering Student at the University of Florida**
+**3rd Year Computer Engineering Student at the University of Florida**
 
 
 <!--
