@@ -3,18 +3,6 @@
 **3rd Year Computer Engineering Student at the University of Florida**
 
 
-<!--
-## 📄 My Info & Documents
-
-Access my key professional documents below:
-
-- 📝 **Resume:** [View My Resume](https://github.com/megawall212/Intern-Info/blob/main/Resume%20Fall%202025.pdf)
-- ✉️ **Cover Letter:** [View My Cover Letter](https://github.com/megawall212/Intern-Info/blob/main/Cover_Letter_Fall.pdf)
-- 📚 **Reference Letters/Work Samples:** [View Reference Letters](https://github.com/megawall212/Intern-Info/blob/main/Reference%20letter%20Fall%2025.pdf)
-- **Unofficial Transcript** [View Latest Unofficial Transcript](https://github.com/megawall212/Intern-Info/blob/main/Transcript%20Report.pdf)
-
--->
----
 ## 🛠️ Languages and Tools:
 
 <p align="center">
@@ -54,11 +42,16 @@ Access my key professional documents below:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
 
  
+
 ### ⭐ Favorite Projects
 
 - **Facial Recognition System**  
   A facial recognition project built by the SASE Engineering Team using pretrained models from InsightFace. Designed for real-time operation and integrated into an autonomous robot, deployed on **Jetson Nano** for person identification and interaction.  
   🔗 [View Project](https://github.com/noah-n-pham/SET-Facial-Recognition)
+
+- **Gator Gains – First Timer Fitness Project**  
+  A full-stack fitness web application built with **React, JavaScript, Vite, Firebase, and Express.js**. Designed to help beginners track fitness goals and stay motivated through interactive workouts, badges, and gamified features. Includes user authentication, responsive UI, and backend API integration.  
+  🔗 [View Project](https://github.com/megawall212/First-Timer-Fitness-Intro-to-SWE-Project) | [Live Demo](https://swe-training-fba5a.web.app/)
 
 - **US City Graphs (DSA Project 2)**  
   Analyzed real-world city connections using graph data structures, BFS/DFS, and MST algorithms.  
